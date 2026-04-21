@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Crumbs Beta Updates</title>
+        <link>https://CaioSilveira63.github.io/Crumbs-Releases/appcast-beta.xml</link>
+        <description>Beta releases for Crumbs.</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.1.0 Beta</title>
+            <sparkle:releaseNotesLink>
+                https://CaioSilveira63.github.io/Crumbs-Releases/release_notes_beta.html
+            </sparkle:releaseNotesLink>
+            <pubDate>Tue, 21 Apr 2026 03:23:42 +0000</pubDate>
+            <enclosure url="https://github.com/CaioSilveira63/Crumbs-Releases/releases/download/1.0/Crumbs.zip"
+                       sparkle:version="1"
+                       sparkle:shortVersionString="1.0"
+                       sparkle:edSignature="LUYuo06XrOiiLpE3eloFgxZZ58sphd+8wz75G/HJELpMuevtg7bz2GYIK4f/TFo/ntK28LjAOOVM08dmXwWFCA=="
+                       length="1411719"
+                       type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
