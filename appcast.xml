@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Crumbs Updates</title>
+        <link>https://caiosilveira.github.io/Crumbs-Releases/appcast.xml</link>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.1.0</title>
+            <sparkle:releaseNotesLink>
+                https://caiosilveira.github.io/Crumbs-Releases/release_notes.html
+            </sparkle:releaseNotesLink>
+            <pubDate>Mon, 20 Apr 2026 12:00:00 +0000</pubDate>
+            <enclosure url="https://github.com/caiosilveira/Crumbs-Releases/releases/download/v1.0/Crumbs.zip"
+                       sparkle:version="2"
+                       sparkle:shortVersionString="1.0"
+                       sparkle:edSignature="LUYuo06XrOiiLpE3eloFgxZZ58sphd+8wz75G/HJELpMuevtg7bz2GYIK4f/TFo/ntK28LjAOOVM08dmXwWFCA=="
+                       length="0"
+                       type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
