@@ -12,7 +12,7 @@
             </sparkle:releaseNotesLink>
             <pubDate>Sun, 26 Apr 2026 04:14:44 +0000</pubDate>
             <enclosure url="https://github.com/CaioSilveira63/Crumbs-Releases/releases/download/v1.0/Crumbs.zip"
-                       sparkle:version="3"
+                       sparkle:version="2"
                        sparkle:shortVersionString="1.0"
                        sparkle:edSignature="RErM5w2CYoBtFXPGCAmkMnjX0Rx3grhmW3Buh3VxgdWs7lSJnIAnQXzvYilgiCPyKS97qH81p5mKQwv64z7gCA=="
                        length="7379218"
